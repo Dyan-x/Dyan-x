@@ -1,5 +1,5 @@
-###:school: Currently learning web development and C#.
-###I also have some python experience :thumbsup:.
+:school: Currently learning web development and C#.
+I also have some python experience :thumbsup:.
 
 <!--
 **Dyan-x/Dyan-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
